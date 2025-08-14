@@ -1,0 +1,11 @@
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\bin\Debug\Combobox.exe.config
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\bin\Debug\Combobox.exe
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\bin\Debug\Combobox.pdb
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.Form1.resources
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.csproj.GenerateResource.cache
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.exe
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.pdb
+C:\Users\tais.clopes\source\repos\Combobox\Combobox\obj\Debug\Combobox.exe.config
