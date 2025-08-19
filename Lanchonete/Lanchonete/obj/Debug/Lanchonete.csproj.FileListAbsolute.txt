@@ -1,0 +1,10 @@
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe.config
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\bin\Debug\Lanchonete.exe
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\bin\Debug\Lanchonete.pdb
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.AssemblyReference.cache
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.Form1.resources
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.Properties.Resources.resources
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.GenerateResource.cache
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.csproj.CoreCompileInputs.cache
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.exe
+C:\Users\User01\Documents\tais licções\Csharp_Desc-main (1)\Csharp_Desc-main\Lanchonete\Lanchonete\obj\Debug\Lanchonete.pdb
