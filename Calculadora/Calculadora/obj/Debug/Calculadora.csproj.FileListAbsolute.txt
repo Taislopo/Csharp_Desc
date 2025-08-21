@@ -1,0 +1,11 @@
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.FormCalculadora.resources
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\tais.clopes\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe.config
